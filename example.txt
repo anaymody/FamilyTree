@@ -1,0 +1,7 @@
+class_type|name|birthday|description|spouse|children_list|top_of_tree|tree_parent
+TM|John Smith||||[]|False|Jane Smith
+TM|Jane Smith|||Bob Smith|['John Smith']|False|Robert Johnson
+NTM|Bob Smith|||Jane Smith|['John Smith']
+TM|Robert Johnson|||Marie Johnson|['Jane Smith', 'Alice Johnson']|True|
+NTM|Marie Johnson|||Robert Johnson|['Jane Smith', 'Alice Johnson']
+TM|Alice Johnson||||[]|False|Robert Johnson
