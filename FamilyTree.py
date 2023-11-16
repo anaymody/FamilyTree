@@ -1,5 +1,4 @@
 # NAME: Anay Mody
-# ID: 8649820623
 # DATE: 2023-05-04
 # DESCRIPTION: Similar to the friend connections networks and a few of the last couple of projects,
 # this project aims to allow users to create and interact with a family tree. Each member of
